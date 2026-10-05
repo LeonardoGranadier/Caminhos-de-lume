@@ -1,0 +1,25 @@
+{
+  "area": "vila",
+  "x": 7,
+  "y": 22,
+  "gold": 255,
+  "fragments": 3,
+  "key": true,
+  "quest": true,
+  "completed": true,
+  "version": 1,
+  "opened": [
+    "bosque_fragmento",
+    "bosque_moedas",
+    "chave_antiga",
+    "ruinas_fragmento",
+    "ruinas_moedas",
+    "vila_fragmento",
+    "vila_moedas"
+  ],
+  "visited": [
+    "bosque",
+    "ruinas",
+    "vila"
+  ]
+}
