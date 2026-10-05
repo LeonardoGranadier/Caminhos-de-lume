@@ -4,9 +4,6 @@ Protótipo jogável de exploração em tiles com Python, Pygame e pytmx. Inclui 
 
 ## Jogar no seu computador
 
-
-## Jogar em outro computador
-
 instale Python 3.10 ou mais recente. 
 
 ```sh
